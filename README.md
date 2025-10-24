@@ -87,37 +87,3 @@
 ```list-style: ;``` : Définit le style d'une liste
 
 ```line-height: ;``` : Spécifie la hauteur d'une ligne
-
-
-# les élément pris en compte partant de l'objectif et des specifications de l'exercice
-
-
-## Objectifs
-
-### Comprendre l’importance de la preuve sociale dans le design web.
-
-### Structurer une page HTML en sections logiques (titre, avis, témoignages).
-
-### Utiliser le CSS pour créer une interface moderne et responsive.
-
-### Mettre en avant des témoignages clients de façon attractive.
-
-### Travailler l’accessibilité (balises alt, structure sémantique)
-
-### Développer ses compétences en intégration HTML & CSS.
-
-### Apprendre à utiliser les icons
-
-## Spécifications
-
-
-## Structure HTML sémantique
-
-### Design responsive
-
-### Respect du style guide
-
-### Organisation des fichiers
-
-### Code propre et commenté
-
