@@ -30,9 +30,10 @@ body {
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 0.75fr 0.75fr;
     max-width: 60rem;
     background: var(--Background-White);
+    margin-top: 5rem;
 }
 
 img {
@@ -57,6 +58,7 @@ h1 {
 .section1 {
     padding-top: 1rem;
     grid-column: span 2;
+    
 }
 
 
@@ -162,7 +164,7 @@ h3 {
 @media (max-width: 768px) {
     .proof{
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(6, 1fr);
+        grid-template-rows: repeat(5, 1fr);
      margin: 1rem;
     
     }
@@ -193,17 +195,18 @@ h3 {
         width: 350px;
         grid-column: span 1;
         margin-right: 0;
+        padding: 1.5rem;
     }
 
      .section4{
         justify-self: center;
         width: 350px;
         grid-column: span 1;
+        padding: 1.5rem;
     }
 
      .section5{
         justify-self: center;
-        /* max-width: 100%; */
         width: 350px;
         grid-column: span 1;
     }
